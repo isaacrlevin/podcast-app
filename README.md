@@ -19,6 +19,8 @@ products:
 
 # .NET Podcasts - Sample Application
 
+
+
 The .NET Podcast app is a sample application showcasing [.NET](https://dotnet.microsoft.com/), [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet), [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor), [.NET MAUI](https://dotnet.microsoft.com/apps/maui), [Azure Container Apps](https://azure.microsoft.com/services/container-apps/#overview), [Orleans](https://docs.microsoft.com/dotnet/orleans/overview), [Playwright](https://playwright.dev), and more.
 
 In addition, we created an Approval App using [Microsoft Power Apps](https://docs.microsoft.com/en-us/power-apps/) to handle incoming podcast requests.
@@ -51,7 +53,7 @@ Additionally, we build an application using [Microsoft Power Apps](https://docs.
 
 ## Local Deployment Quickstart
 
-The easiest way to get started is to build and run the .NET Podcasts app service, database, and storage using Docker. 
+The easiest way to get started is to build and run the .NET Podcasts app service, database, and storage using Docker.
 
 1. First install [Docker Desktop](https://www.docker.com/products/docker-desktop)
 2. Clone the repository and navigate to the root directory in a terminal
@@ -107,8 +109,8 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 ## Trademarks
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
+trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
